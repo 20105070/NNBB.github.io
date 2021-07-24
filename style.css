@@ -1,0 +1,17 @@
+/*WDD Lab 9.1 - Daniel Syrén (20105070).css*/
+#bdy {
+    background-color: #6f2da8;
+    color: #d8da7a;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+#btn {
+    background-color: #d8da7a;
+    color: #6f2da8;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    font-weight: bold;
+    text-shadow: 1px 1px #6f2da8;
+}
